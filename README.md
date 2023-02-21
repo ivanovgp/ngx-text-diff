@@ -11,6 +11,11 @@ These packages will not be auto-installed and must be installed in addition to t
  - @angular/forms >= 6.0.0
  - @angular/cdk >= 6.0.0 (used for scrolling synchronization)
 
+## Create Package Installer
+* Update version.
+* Run 'npm run package'.
+* Create github release and upload tgz file.
+
 ## Demo
 [Ngx Text Diff Demo](https://ngx-text-diff.herokuapp.com/home)
 
